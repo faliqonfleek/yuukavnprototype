@@ -24,7 +24,7 @@ Brocollie</br>
 ViolaMagistrate</br>
 Jasminos Micinos
 
-$ Music by
+# Music by
 Moon Jelly</br>
 Starry Attic
 
