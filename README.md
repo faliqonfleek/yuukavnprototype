@@ -14,23 +14,23 @@ Most of the contributors will be credited with their discord names due to person
 Faliq Aldy Tan
 
 # Written by
-MAZTER TEDYZ
-ViolaMagistrate
-MRDoomPlayer
+MAZTER TEDYZ</br>
+ViolaMagistrate</br>
+MRDoomPlayer</br>
 fireburger
 
 # Artwork by
-Brocollie
-ViolaMagistrate
+Brocollie</br>
+ViolaMagistrate</br>
 Jasminos Micinos
 
 $ Music by
-Moon Jelly
+Moon Jelly</br>
 Starry Attic
 
 # Special Mentions
-Inzult
-Avvvp
+Inzult</br>
+Avvvp</br>
 KiburiKageyama
 
 # Special thanks to
