@@ -13,6 +13,10 @@ other features are provided in the dialogue/ narration box.
 # Game Screenshots
 <b>Screenshot1</b></br>
 ![Screenshot1](Image56.jpg)</br>
+<b>Screenshot2</b></br>
+![Screenshot2](Image57.jpg)</br>
+<b>Screenshot3</b></br>
+![Screenshot3](Image58.jpg)</br>
 
 # Video Sample
 
