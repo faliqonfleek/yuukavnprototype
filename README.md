@@ -8,7 +8,7 @@ Extract the zip file to your desired path, open the folder and run the applicati
 
 <b>Controls:</b></br>
 Use the mouse or the 'Enter' key to read through narrations or dialogues. Choices need to be selected with your mouse and
-other features are provided in the dialogue/ narration box.
+other features are provided in the dialogue / narration box.
 
 # Game Screenshots
 <b>Screenshot1</b></br>
@@ -19,6 +19,7 @@ other features are provided in the dialogue/ narration box.
 ![Screenshot3](Image58.jpg)</br>
 
 # Video Sample
+https://www.youtube.com/watch?v=s_WvSGlRYUM
 
 # Credits:
 Most of the contributors will be credited with their discord names due to personal reasons
