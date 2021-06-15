@@ -3,9 +3,18 @@
 Yuuka is a work in progress visual novel which tells the story of a young protagonist who obtained a mysterious book by 
 chance, granting him passage to the unknown land of 'Australia'. Will he use it for the sake of his world or 'Australia's'?
 
+<b>Installation Instructions:</b></br>
+Extract the zip file to your desired path, open the folder and run the application either for the 64-bit or 32-bit version.
+
 <b>Controls:</b></br>
 Use the mouse or the 'Enter' key to read through narrations or dialogues. Choices need to be selected with your mouse and
 other features are provided in the dialogue/ narration box.
+
+# Game Screenshots
+<b>Screenshot1</b></br>
+![Screenshot1](Image56.jpg)</br>
+
+# Video Sample
 
 # Credits:
 Most of the contributors will be credited with their discord names due to personal reasons
