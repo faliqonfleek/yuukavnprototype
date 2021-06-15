@@ -47,7 +47,7 @@ Inzult</br>
 Avvvp</br>
 KiburiKageyama
 
-# Special thanks to
+# Special Thanks To
 Yuuka and VVE for providing an awesome community, allowing me to work with amazing teammates to completing the prototype.
 
 # Legal: We do not own some of the assets used in this project.
