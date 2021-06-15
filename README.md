@@ -1,4 +1,4 @@
-# yuukavnprototype
+# Yuuka VN - Prototype
 <b>Description:</b></br>
 Yuuka is a work in progress visual novel which tells the story of a young protagonist who obtained a mysterious book by 
 chance, granting him passage to the unknown land of 'Australia'. Will he use it for the sake of his world or 'Australia's'?
@@ -17,7 +17,7 @@ Faliq Aldy Tan
 MAZTER TEDYZ</br>
 ViolaMagistrate</br>
 MRDoomPlayer</br>
-fireburger
+On The Jon
 
 # Artwork by
 Brocollie</br>
