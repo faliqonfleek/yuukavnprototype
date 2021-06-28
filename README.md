@@ -12,14 +12,14 @@ other features are provided in the dialogue / narration box.
 
 # Game Screenshots
 <b>Screenshot1</b></br>
-![Screenshot1](Image56.jpg)</br>
+![Screenshot1](Image59.jpg)</br>
 <b>Screenshot2</b></br>
-![Screenshot2](Image57.jpg)</br>
+![Screenshot2](Image60.jpg)</br>
 <b>Screenshot3</b></br>
-![Screenshot3](Image58.jpg)</br>
+![Screenshot3](Image61.jpg)</br>
 
 # Video Sample
-https://www.youtube.com/watch?v=s_WvSGlRYUM
+https://www.youtube.com/watch?v=cgjaM_URJVM
 
 # Credits:
 Most of the contributors will be credited with their discord names due to personal reasons
@@ -47,7 +47,7 @@ Inzult</br>
 Avvvp</br>
 KiburiKageyama
 
-# Special thanks to
+# Special Thanks To
 Yuuka and VVE for providing an awesome community, allowing me to work with amazing teammates to completing the prototype.
 
 # Legal: We do not own some of the assets used in this project.
